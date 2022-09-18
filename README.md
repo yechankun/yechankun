@@ -26,7 +26,7 @@
 
 모르는 무언가가 있을 때는 혼자 고민하지 않고 주변인과 동료들에게 물어보며, 어떻게든 **지적 욕구**를 채우는 **욕심**이 있습니다. 또한 얻게 된 **정보**를 혼자만의 것이 아닌 주변과 **공유**하여 **모두 같이 성장**하는 것을 지향하고 있습니다.
 
-[학습공유1](https://ibb.co/cyGz1fP) [학습공유2](/학습공유.PNG)
+[학습공유1](https://user-images.githubusercontent.com/44011226/190913093-45f3ad89-a6a9-49dd-aec4-27b67fb2c6ba.png) [학습공유2](https://user-images.githubusercontent.com/44011226/190913117-a37b0fb8-6b8e-4e33-ad80-4de792329cda.png)
 
 ## 🌠 Skill
 
@@ -175,7 +175,8 @@
         작품접근성을 높이기 위한 NFT 거래소</div>
         <div class="link"><a href="https://github.com/redniche/ThirdDonation">깃허브 링크</a></div>
         <div class="link"><a href="https://redniche.notion.site/c362c3526e8f49d48b56594234573882">노션 링크</a></div>
-        <div class="link"><a href="https://ibb.co/4Vn0SjR">지라 이미지 링크</a></div>
+        <div class="link"><a href="https://user-images.githubusercontent.com/44011226/190913148-b536f1b0-bc54-4b07-acd4-99090d684167.png
+">지라 이미지 링크</a></div>
         <div class="date">2022.03 ~ 2022.04</div>
         <ul class="list">
             <li class="item">팀원 5명 중 팀장</li>
