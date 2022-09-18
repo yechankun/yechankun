@@ -66,15 +66,15 @@
             <img src="https://img.shields.io/badge/서버 프레임워크-Spring Boot ^2.5.6-A07ACC?style=flat&logo=Spring Boot&logoColor=white"/>
             <br/>
             <img src="https://img.shields.io/badge/SPA프레임워크(라이브러리)-React ^17-A07ACC?style=flat&logo=React&logoColor=white">
-            <img src="https://img.shields.io/badge/SPA프레임워크-Vue ^2-A07ACC?style=flat&logo=Vue.js&logoColor=white"/>
             <br/>
             <img src="https://img.shields.io/badge/블록체인 프레임워크-Truffle 5.5.6-A07ACC?style=flat&logo=Truffle&logoColor=white"/>
             <br/>
-            <img src="https://img.shields.io/badge/서버 프레임워크-Django 1.11-A07ACC?style=flat&logo=Django&logoColor=white"/>
+            <img src="https://img.shields.io/badge/서버 프레임워크-Express 1.11-A07ACC?style=flat&logo=Express&logoColor=white"/>
             <img src="https://img.shields.io/badge/서버 프레임워크-Spring 5.x-A07ACC?style=flat&logo=Spring&logoColor=white"/>
             <br/>
-            <img src="https://img.shields.io/badge/JPF-Hibernate ORM JPA-770077?style=flat&logo=Hibernate&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JPF-Mybatis-770077?style=flat&logo=Mybatis&logoColor=white"/>
+            <img src="https://img.shields.io/badge/ORM-JPA-770077?style=flat&logo=Hibernate&logoColor=white"/>
+            <img src="https://img.shields.io/badge/ORM-Mybatis-770077?style=flat&logo=Mybatis&logoColor=white"/>
+            <img src="https://img.shields.io/badge/ORM-Mongoose-770077?style=flat&logo=Mongoose&logoColor=white"/>
             <br/>
             <img src="https://img.shields.io/badge/IDE-Visual Studio Code-007A1C?style=flat&logo=Visual Studio Code&logoColor=white"/>
             <img src="https://img.shields.io/badge/IDE-IntelliJ IDEA-007A1C?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
@@ -82,7 +82,6 @@
             <img src="https://img.shields.io/badge/IDE-Visual Studio 2019-007A1C?style=flat&logo=Visual Studio&logoColor=white"/>
             <img src="https://img.shields.io/badge/IDE-PyCharm-007A1C?style=flat&logo=PyCharm&logoColor=white"/>
             <br/>
-            <img src="https://img.shields.io/badge/웹디자인-Vutify-5575FF?style=flat&logo=Vue.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/웹디자인-BootStrap-5575FF?style=flat&logo=BootStrap&logoColor=white"/>
             <img src="https://img.shields.io/badge/Ethereum IDE-Remix IDE-551166?style=flat&logo=Truffle&logoColor=white"/>
             <br/>
@@ -91,11 +90,7 @@
             <br/>
             <img src="https://img.shields.io/badge/게임엔진-Unity ^2015-000000?style=flat&logo=Unity&logoColor=white"/>
             <br/>
-            <img src="https://img.shields.io/badge/안드로이드-Android SDK 29-007A1C?style=flat&logo=Android&logoColor=white"/>
-            <br/>
             <img src="https://img.shields.io/badge/SSR-Spring thymeleaf-A07ACC?style=flat&logo=thymeleaf&logoColor=white"/>
-            <img src="https://img.shields.io/badge/SSR-Django Templete-A07ACC?style=flat&logo=Yarn&logoColor=white"/>
-            <img src="https://img.shields.io/badge/패키지관리-Yarn-A07ACC?style=flat&logo=Yarn&logoColor=white"/>
             <br/>
             <img src="https://img.shields.io/badge/Git-2.x-A07A5C?style=flat&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/프로젝트관리-노션-A07A5C?style=flat&logo=Notion&logoColor=white"/>
@@ -106,6 +101,8 @@
             <img src="https://img.shields.io/badge/WAS-Tomcat-AAAAAA?style=flat&logo=Apache Tomcat&logoColor=white"/>
             <img src="https://img.shields.io/badge/Web Server-Apache-AAAAAA?style=flat&logo=Apache&logoColor=white"/>
             <br/>
+            <img src="https://img.shields.io/badge/클라우드-EC2-A07A5C?style=flat&logo=Amazon&logoColor=white"/>
+            <img src="https://img.shields.io/badge/서버-Ubuntu-A07A5C?style=flat&logo=Ubuntu&logoColor=white"/>
             <img src="https://img.shields.io/badge/가상화-Docker-A07A5C?style=flat&logo=Docker&logoColor=white"/>
             <img src="https://img.shields.io/badge/CICD-Jenkins-A07A5C?style=flat&logo=Jenkins&logoColor=white"/>
             <img src="https://img.shields.io/badge/CICD-GitHub Action-A07A5C?style=flat&logo=Github&logoColor=white"/>
@@ -117,7 +114,8 @@
             <br/>
             <img src="https://img.shields.io/badge/포매터-Prettier-007500?style=flat&logo=Prettier&logoColor=white"/>
             <img src="https://img.shields.io/badge/린트-Eslint-007500?style=flat&logo=Eslint&logoColor=white"/>
-            <img src="https://img.shields.io/badge/정적분석-CheckStyle-007500?style=flat&logo=Eslint&logoColor=white"/>
+            <img src="https://img.shields.io/badge/정적분석-CheckStyle-007500?style=flat&logo=CheckStyle&logoColor=white"/>
+            <img src="https://img.shields.io/badge/정적분석-SonarCube-007500?style=flat&logo=SonarQube&logoColor=white"/>
             <br/>
             <img src="https://img.shields.io/badge/API테스트-Postman-FF75FF?style=flat&logo=Postman&logoColor=white"/>
             <img src="https://img.shields.io/badge/프로토타입 설계-Figma-FF75FF?style=flat&logo=Figma&logoColor=white"/>
@@ -406,9 +404,24 @@
 <div>
     <table style="display:block;">
         <tr>
-            <td>2022</td>
-            <td>삼성 청년 SW 아카데미 </td>
-            <td>공통 프로젝트 최우수상</td>
+            <td>2022.06</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>성적 우수 삼성전자 대표이사상</td>
+        </tr>
+        <tr>
+            <td>2022.05</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>자율 프로젝트 우수상</td>
+        </tr>
+        <tr>
+            <td>2022.04</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>특화 프로젝트 우수상</td>
+        </tr>
+        <tr>
+            <td>2022.02</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>공통 프로젝트 우수상</td>
         </tr>
         <tr>
             <td>2021</td>
@@ -427,6 +440,8 @@
         </tr>
     </table>
 </div>
+
+![20220710_175959](https://user-images.githubusercontent.com/44011226/190911496-b7929db0-b3c5-4b1b-8c95-1fac01bf7d6c.jpg)
 
 ### Server
 
@@ -449,6 +464,14 @@
         </ul>
     </div>
     <div class="box">
+        <strong class="box_title">Node JS</strong>
+        <ul class="list">
+            <li class="item">Express Server 개발 경험이 있습니다.</li>
+            <li class="item">Interface를 활용한 추상화 구성에 익숙합니다.</li>
+            <li class="item">CommonJS의 모듈식 구성에 익숙합니다.</li>
+        </ul>
+    </div>
+    <div class="box">
         <strong class="box_title">Solidity</strong>
         <ul class="list">
             <li class="item">ERC20, ERC721 과 같은 이더리움 표준을 이해하고 있습니다.</li>
@@ -466,13 +489,6 @@
         <ul class="list">
             <li class="item">함수형 컴포넌트 작성을 선호합니다.</li>
             <li class="item">Hook을 이용한 상태관리, Redux를 이용한 전역 상태관리를 선호합니다.</li>
-        </ul>
-    </div>
-    <div class="box">
-        <strong class="box_title">Vue.js</strong>
-        <ul class="list">
-            <li class="item">Material design을 선호합니다.</li>
-            <li class="item">Vuex를 이용한 상태관리를 선호합니다.</li>
         </ul>
     </div>
     <div class="box">
@@ -500,8 +516,7 @@
     <div class="box">
         <strong class="box_title">Cloud 활용</strong>
         <ul class="list">
-            <li class="item">EC2와 같은 환경에 Private Key를 활용해 접속하는 것을 선호합니다.</li>
-            <li class="item">EC2에서 Ubuntu 인스턴스 생성을 해보았습니다.</li>
+            <li class="item">EC2의 Ubuntu 환경에 익숙합니다.</li>
             <li class="item">Ubuntu 환경에서 패키지를 설치하고 도커환경을 구성할 줄 압니다.</li>
         </ul>
     </div>
@@ -523,7 +538,7 @@
         <ul class="list">
             <li class="item">go-ipfs 노드를 구성할 줄 압니다.</li>
             <li class="item">ipfs-cluster를 docker-compose를 활용해 클러스터 환경을 구성할 줄 압니다.</li>
-            <li class="item">CORS 설정과 Private Key설정을 할 수 있습니다.</li>
+            <li class="item">파일을 Pinned 하는 방법과 ipfs 프로토콜의 활용법을 알고 있습니다.</li>
         </ul>
     </div>
 </section>
