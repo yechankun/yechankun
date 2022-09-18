@@ -34,7 +34,7 @@
     <table style="display:block;">
         <tr>
             <td>수준</td>
-            <td>주니어 (실무경력 0)</td>
+            <td>주니어</td>
         </tr>
         <tr>
             <td>언어</td>
@@ -146,6 +146,28 @@
 
 <section class="section">
     <div class="box">
+        <strong class="box_title">Solniverse</strong>
+        <div class="box_description">
+        글로벌 인터넷 방송 서드파티 후원 플랫폼
+        <br>
+        전세계 어느 스트리머에게나 0$대 수수료로 후원해서 소통하고 NFT를 뽑아 덕질할 수 있는 플랫폼</div>
+        <div class="link"><a href="https://github.com/Solniverse/Solniverse">깃허브 링크</a></div>
+        <div class="link"><a href="https://redniche.notion.site/c362c3526e8f49d48b56594234573882">노션 링크</a></div>
+        <div class="date">2022.04 ~ now</div>
+        <ul class="list">
+            <li class="item">팀원 6명 중 팀원</li>
+            <li class="item">백엔드 리드, 테크니컬 아키텍트 역할 수행</li>
+            <li class="item">기획 및 요구사항 기능 명세서 작성(Third Donation 초안 사용)</li>
+            <li class="item">기능 명세서 기반으로 간단한 시스템 아키텍처 설계</li>
+            <li class="item">ERD 및 Api 설계</li>
+            <li class="item">Express Server 구성 및 Solana RPC WebSocket Server 구성</li>
+            <li class="item">Interface 추상화, Swagger Open API 3.0 사용</li>
+            <li class="item">블록체인 트랜잭션 감지 및 CRUD 기능 구현</li>
+            <li class="item">토큰 발행 및 지급 기능 구현</li>
+            <li class="item text_dimmed">React 17, TypeScript, JavaScript, Express, solana/web3.js, solana/spl-token</li>
+        </ul>
+    </div>
+    <div class="box">
         <strong class="box_title">서드도네이션</strong>
         <div class="box_description">
         장애예술가들의 인식과 시장 구조 개선
@@ -154,7 +176,7 @@
         <div class="link"><a href="https://github.com/redniche/ThirdDonation">깃허브 링크</a></div>
         <div class="link"><a href="https://redniche.notion.site/c362c3526e8f49d48b56594234573882">노션 링크</a></div>
         <div class="link"><a href="https://ibb.co/4Vn0SjR">지라 이미지 링크</a></div>
-        <div class="date">2022.03 ~ now</div>
+        <div class="date">2022.03 ~ 2022.04</div>
         <ul class="list">
             <li class="item">팀원 5명 중 팀장</li>
             <li class="item">기획 및 요구사항 기능 명세서 작성</li>
