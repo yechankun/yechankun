@@ -47,6 +47,52 @@
     </table>
 </div>
 
+## 🏆 Award
+
+[수상 기록 상세 링크](https://redniche.github.io/posts/%EC%88%98%EC%83%81%EA%B8%B0%EB%A1%9D-%EB%AA%A8%EC%9D%8C/)
+
+<div>
+    <table style="display:block;">
+        <tr>
+            <td>2022.06</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>성적우수 1위 삼성전자 대표이사상</td>
+        </tr>
+        <tr>
+            <td>2022.05</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>자율 프로젝트 우수상</td>
+        </tr>
+        <tr>
+            <td>2022.04</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>특화 프로젝트 우수상</td>
+        </tr>
+        <tr>
+            <td>2022.02</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>공통 프로젝트 우수상</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>프로젝트 우수상</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>성적 우수상 </td>
+        </tr>
+        <tr>
+            <td>2018</td>
+            <td>육군혁신 아이디어 콘테스트</td>
+            <td>여단장 표창</td>
+        </tr>
+    </table>
+</div>
+
+![20220710_175959](https://user-images.githubusercontent.com/44011226/190911496-b7929db0-b3c5-4b1b-8c95-1fac01bf7d6c.jpg)
+
 ## 🌠 Skill
 
 <div>
@@ -337,53 +383,6 @@
 
 개발 규모가 크지 않거나 개인 토이 프로젝트입니다.  
 [Sub Project 목록 링크](https://github.com/redniche/redniche/wiki/Sub-Project)
-
-
-## 🏆 Award
-
-[수상 기록 상세 링크](https://redniche.github.io/posts/%EC%88%98%EC%83%81%EA%B8%B0%EB%A1%9D-%EB%AA%A8%EC%9D%8C/)
-
-<div>
-    <table style="display:block;">
-        <tr>
-            <td>2022.06</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>성적우수 1위 삼성전자 대표이사상</td>
-        </tr>
-        <tr>
-            <td>2022.05</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>자율 프로젝트 우수상</td>
-        </tr>
-        <tr>
-            <td>2022.04</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>특화 프로젝트 우수상</td>
-        </tr>
-        <tr>
-            <td>2022.02</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>공통 프로젝트 우수상</td>
-        </tr>
-        <tr>
-            <td>2021</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>프로젝트 우수상</td>
-        </tr>
-        <tr>
-            <td>2021</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>성적 우수상 </td>
-        </tr>
-        <tr>
-            <td>2018</td>
-            <td>육군혁신 아이디어 콘테스트</td>
-            <td>여단장 표창</td>
-        </tr>
-    </table>
-</div>
-
-![20220710_175959](https://user-images.githubusercontent.com/44011226/190911496-b7929db0-b3c5-4b1b-8c95-1fac01bf7d6c.jpg)
 
 ### Server
 
