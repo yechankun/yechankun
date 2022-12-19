@@ -33,6 +33,48 @@
     </table>
 </div>
 
+## 🏆 Award
+
+<div>
+    <table style="display:block;">
+        <tr>
+            <td>2022.06</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>성적우수 1위 삼성전자 대표이사상</td>
+        </tr>
+        <tr>
+            <td>2022.05</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>자율 프로젝트 우수상</td>
+        </tr>
+        <tr>
+            <td>2022.04</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>특화 프로젝트 우수상</td>
+        </tr>
+        <tr>
+            <td>2022.02</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>공통 프로젝트 우수상</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>프로젝트 우수상</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+            <td>삼성 청년 SW 아카데미</td>
+            <td>성적 우수상 </td>
+        </tr>
+        <tr>
+            <td>2018</td>
+            <td>육군혁신 아이디어 콘테스트</td>
+            <td>여단장 표창</td>
+        </tr>
+    </table>
+</div>
+
 ## 🌠 Skill
 
 <div>
@@ -321,49 +363,6 @@
 ## 👦 Sub Project
 
 개발 규모가 크지 않거나 개인 토이 프로젝트입니다.  
-
-
-## 🏆 Award
-
-<div>
-    <table style="display:block;">
-        <tr>
-            <td>2022.06</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>성적우수 1위 삼성전자 대표이사상</td>
-        </tr>
-        <tr>
-            <td>2022.05</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>자율 프로젝트 우수상</td>
-        </tr>
-        <tr>
-            <td>2022.04</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>특화 프로젝트 우수상</td>
-        </tr>
-        <tr>
-            <td>2022.02</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>공통 프로젝트 우수상</td>
-        </tr>
-        <tr>
-            <td>2021</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>프로젝트 우수상</td>
-        </tr>
-        <tr>
-            <td>2021</td>
-            <td>삼성 청년 SW 아카데미</td>
-            <td>성적 우수상 </td>
-        </tr>
-        <tr>
-            <td>2018</td>
-            <td>육군혁신 아이디어 콘테스트</td>
-            <td>여단장 표창</td>
-        </tr>
-    </table>
-</div>
 
 ### Server
 
