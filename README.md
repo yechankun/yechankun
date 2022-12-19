@@ -49,8 +49,6 @@
 
 ## 🏆 Award
 
-[수상 기록 상세 링크](https://redniche.github.io/posts/%EC%88%98%EC%83%81%EA%B8%B0%EB%A1%9D-%EB%AA%A8%EC%9D%8C/)
-
 <div>
     <table style="display:block;">
         <tr>
@@ -91,7 +89,7 @@
     </table>
 </div>
 
-![20220710_175959](https://user-images.githubusercontent.com/44011226/190911496-b7929db0-b3c5-4b1b-8c95-1fac01bf7d6c.jpg)
+[상장 사진](https://user-images.githubusercontent.com/44011226/190911496-b7929db0-b3c5-4b1b-8c95-1fac01bf7d6c.jpg)
 
 ## 🌠 Skill
 
