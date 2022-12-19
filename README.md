@@ -199,14 +199,19 @@
         <div class="date">2022.04 ~ 2022.05</div>
         <ul class="list">
             <li class="item">팀원 6명 중 팀원</li>
-            <li class="item">백엔드 리드, 테크니컬 아키텍트 역할 수행</li>
-            <li class="item">ERD 및 Api 설계</li>
-            <li class="item">Express Server 구성 및 Solana RPC WebSocket Server 구성</li>
-            <li class="item">Interface 추상화, Swagger Open API 3.0 사용</li>
-            <li class="item">블록체인 트랜잭션 감지 및 CRUD 기능 구현</li>
-            <li class="item">토큰 발행 및 지급 기능 구현</li>
-            <li class="item"><small>기획 및 요구사항 기능 명세서 작성(Third Donation 초안 사용)</small></li>
-            <li class="item"><small>기능 명세서 기반으로 간단한 시스템 아키텍처 설계</small></li>
+            <li class="item">백엔드 리드</li>
+            <ul class="list">
+              <li class="item">Express Server 구성 및 Solana RPC WebSocket Server 구성</li>
+              <li class="item">Interface 추상화, Swagger Open API 3.0 사용</li>
+              <li class="item">블록체인 트랜잭션 감지 및 CRUD 기능 구현</li>
+              <li class="item">토큰 발행 및 지급 기능 구현</li>
+            </ul>
+            <li class="item">기획 및 테크니컬 아키텍트 역할 수행</li>
+            <ul class="list">
+              <li class="item"><small>기획 및 요구사항 기능 명세서 작성(Third Donation 초안 사용)</small></li>
+              <li class="item"><small>기능 명세서 기반으로 간단한 시스템 아키텍처 설계</small></li>
+              <li class="item">ERD 및 Api 설계</li>
+            </ul>
             <li class="item text_dimmed"><i>삼성 청년 SW 아카데미 자율프로젝트 1위</i></li>
             <li class="item text_dimmed"><i>삼성 청년 SW 아카데미 최종 결선진출 입선</i></li>
             <li class="item text_dimmed"><i>React 17, TypeScript, JavaScript, Express, solana/web3.js, solana/spl-token</i></li>
@@ -226,15 +231,20 @@
         <div class="date">2022.03 ~ 2022.04</div>
         <ul class="list">
             <li class="item">팀원 5명 중 팀장</li>
-            <li class="item">백엔드 CheckStyle 빌드 환경 구성, JPA ORM 스키마 환경 구성</li>
-            <li class="item">회원 기능, NFT 민팅 개발</li>
-            <li class="item">기획 및 요구사항 기능 명세서 작성</li>
-            <li class="item">기능 명세서 기반으로 간단한 시스템 아키텍처 설계</li>
-            <li class="item">ERD 설계, 팀원과 프로토타입 Figma 및 api 설계</li>
-            <li class="item">EIP, OpenZeppelin, Klaytn으로 ERC 20, 721 학습</li>
-            <li class="item"><small>Webhook으로 커밋 로그 및 회의 기록</small></li>
-            <li class="item"><small>GitFlow 적용 및 JIRA</small></li>
-            <li class="item"><small>프론트엔드 템플릿 구성</small></li>
+            <ul class="list">
+              <li class="item">백엔드 CheckStyle 빌드 환경 구성, JPA ORM 스키마 환경 구성</li>
+              <li class="item">회원 기능, NFT 민팅 백엔드&프론트 개발</li>
+              <li class="item">EIP, OpenZeppelin, Klaytn으로 ERC 20, 721 학습</li>
+            </ul>
+            <li class="item">팀장 수행</li>
+            <ul class="list">
+              <li class="item">기획 및 요구사항 기능 명세서 작성</li>
+              <li class="item">기능 명세서 기반 시스템 아키텍처 설계</li>
+              <li class="item">ERD 설계, 팀원과 프로토타입 Figma 및 api 설계</li>
+              <li class="item"><small>Webhook 커밋 로깅 및 회의 기록</small></li>
+              <li class="item"><small>GitFlow 적용 및 JIRA 팀 컨벤션 적용</small></li>
+              <li class="item"><small>프론트엔드 템플릿 구성</small></li>
+            </ul>
             <li class="item text_dimmed"><i>삼성 청년 SW 아카데미 특화 프로젝트 2위</i></li>
             <li class="item text_dimmed"><i>React 17, SpringBoot, Truffle, Solidity ^0.8.7, OpenJDK 11, MySQL, MongoDB, IPFS, BesuNet</i></li>
         </ul>
@@ -251,12 +261,24 @@
         <div class="date">2022.01.10 ~ 2022.02.18 (6주)</div>
         <ul class="list">
             <li class="item">팀원 5명 중 팀원</li>
-            <li class="item">유니티 리드 개발, 테크니컬 아키텍트, 프로젝트 매니저 역할 수행</li>
-            <li class="item">AgoraSDK를 이용한 WebRTC, 플레이어 동작, 증거 수집/공유 등 핵심 기능 구현</li>
-            <li class="item"><small>노션 협업을 통한 설계</small></li>
-            <li class="item"><small>노션을 통한 업무 관리, 버그해결 등의 프로젝트 매니지먼트</small></li>
-            <li class="item"><small>UI 레이아웃 디자인</small></li>
-            <li class="item"><small>구현시 사전 학습사항 전파 및 node.js Event ThreadPool 관련 교육 진행</small></li>
+            <li class="item">유니티 리드 개발</li>
+            <ul>
+              <li class="item">AgoraSDK를 이용한 WebRTC 구현</li>
+              <li class="item">플레이어 동작 구현</li>
+              <li class="item">&ltSocket통신&gt 증거 수집/공유 기능 구현</li>
+              <li class="item">로그인 단방향 암호화 구성</li>
+            </ul>
+            <li class="item">테크니컬 아키텍트</li>
+            <ul>
+              <li class="item">아키텍처 설계, 클라이언트간 통신 구조 구성</li>
+              <li class="item"><small>구현시 사전 학습사항 전파 및 node.js Event ThreadPool 관련 교육 진행</small></li>
+            </ul>
+            <li class="item">프로젝트 매니저 역할</li>
+            <ul class="list">
+              <li class="item"><small>노션 협업을 통한 설계</small></li>
+              <li class="item"><small>노션을 통한 업무 관리, 버그해결 등의 프로젝트 매니지먼트</small></li>
+              <li class="item"><small>UI 레이아웃 디자인</small></li>
+            </ul> 
             <li class="item text_dimmed"><i>삼성 청년 SW 아카데미 공통 프로젝트 1위</i></li>
             <li class="item text_dimmed"><i>Unity 2020 LTS, Agora SDK, Node.js, Express, WebGL, JPA, Lombok,Socket.io, MySQL</i></li>
         </ul>
@@ -264,7 +286,6 @@
     <div class="box">
         <strong class="box_title">4. 해피하우스</strong>
         <br/><br/>
-        <br/>
         <div class="box_description">
         카카오맵과 공공데이터, 크롤링을 통해
         <br>
@@ -275,10 +296,15 @@
         <ul class="list">
             <li class="item">팀원 2명 중 팀장</li>
             <li class="item">백엔드(주), 프론트엔드(부)</li>
-            <li class="item">회원, 공지, 문의, 집찾기 기능 REST API 작성, KakaoMap API로 지도뷰 구현</li>
-            <li class="item">Jsoup을 이용한 네이버 부동산 뉴스 크롤링 구현</li>
-            <li class="item">Mybatis를 이용한 ORM-CRUD</li>
-            <li class="item"><small>제시 받은 명세서 기반으로 노션 업무 계획 및 진행</small></li>
+            <ul>
+              <li class="item">회원, 공지, 문의, 집찾기 기능 REST API 작성, KakaoMap API로 지도뷰 구현</li>
+              <li class="item">Jsoup을 이용한 네이버 부동산 뉴스 크롤링 구현</li>
+              <li class="item">Mybatis를 이용한 ORM-CRUD</li>
+            </ul>
+            <li class="item">팀장</li>
+            <ul>
+              <li class="item"><small>제시 받은 명세서 기반으로 노션 업무 계획 및 진행</small></li>
+            </ul>
             <li class="item text_dimmed"><i>삼성 청년 SW 아카데미 관통 프로젝트 2위</i></li>
             <li class="item text_dimmed"><i>Vue.js, Spring Boot 2.5.6, Node.js, Vuetify, MySQL, KakaoMap API</i></li>
         </ul>
@@ -295,10 +321,12 @@
         <ul class="list">
             <li class="item">팀원 5명 중 팀원</li>
             <li class="item">전반적인 백엔드 개발 담당</li>
-            <li class="item">Jpa를 이용한 ORM 구성</li>
-            <li class="item">Spring Security를 활용한 회원 기능 구현</li>
-            <li class="item">가게나 시설들의 CRUD 개발</li>
-            <li class="item">파이어베이스 기반 푸시 알림 기능 구현</li>
+            <ul>
+              <li class="item">Jpa를 이용한 ORM 구성</li>
+              <li class="item">Spring Security를 활용한 회원 기능 구현</li>
+              <li class="item">가게나 시설들의 CRUD 개발</li>
+              <li class="item">파이어베이스 기반 푸시 알림 기능 구현</li>
+            </ul>
             <li class="item"><small>ERD 설계 및 위치기반 서비스를 위한 공간인덱스 DB 활용 학습공유</small></li>
             <li class="item text_dimmed"><i>Spring Boot, JPA, Lombok, MariaDB</i></li>
         </ul>
