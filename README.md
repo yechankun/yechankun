@@ -72,10 +72,10 @@
             <img src="https://img.shields.io/badge/Java-OpenJDK 8, 중-007ACC?style=flat&logo=Java&logoColor=white"/>
             <img src="https://img.shields.io/badge/Java-OpenJDK 11, 중-007ACC?style=flat&logo=Java&logoColor=white"/>
             <br/>
-            <img src="https://img.shields.io/badge/Python3-중하-007ACC?style=flat&logo=Python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Python3-중-007ACC?style=flat&logo=Python&logoColor=white"/>
             <br/>
+            <img src="https://img.shields.io/badge/JavaScript-중-007ACC?style=flat&logo=JavaScript&logoColor=white">
             <img src="https://img.shields.io/badge/HTML-중하-007ACC?style=flat&logo=HTML5&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript-중하-007ACC?style=flat&logo=JavaScript&logoColor=white">
             <img src="https://img.shields.io/badge/CSS-중하-007ACC?style=flat&logo=CSS3&logoColor=white"/>
             <br/>
             <img src="https://img.shields.io/badge/Solidity-중-007ACC?style=flat&logo=Solidity&logoColor=white"/>
