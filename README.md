@@ -3,7 +3,10 @@
 ## 👋🏻 안녕하세요! <span style="background: #a55ef4;">일단 해보는 개발자</span> yechankun입니다.
 
 
-](https://github.com/yechankun/github-readme-stats)
+
+
+
+[![yechankun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechankun&show_icons=true&theme=dark)](https://github.com/yechankun/github-readme-stats)
 
 항상 기존의 `개선에 관심`을 가지고, 일상생활에서 영감을 얻습니다.  
 최근에는 코드 컨벤션, 클린 코드 작성, 코드 리팩터링에 대해 매번 고민하고 있습니다.
@@ -14,7 +17,7 @@
 모르는 무언가가 있을 때는 혼자 고민하지 않고 주변인과 동료들에게 물어보며, 어떻게든 **지적 욕구**를 채우는 **욕심**이 있습니다. 또한 얻게 된 **정보**를 혼자만의 것이 아닌 주변과 **공유**하여 **모두 같이 성장**하는 것을 지향하고 있습니다.
 학습공유2
 
-## 🌌 Career
+## 🌌 Careers
 
 <div>
     <table style="display:block;">
@@ -33,7 +36,7 @@
     </table>
 </div>
 
-## 🏆 Award
+## 🏆 Awards
 
 <div>
     <table style="display:block;">
