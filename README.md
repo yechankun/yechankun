@@ -1,6 +1,6 @@
 <!-- @format -->
 
-## 👋🏻 안녕하세요! <span style="background: #a55ef4;">일단 해보는 개발자</span> 장예찬입니다.
+## 👋🏻 안녕하세요! <span style="background: #a55ef4;">순식간에 성장하는 귀차니즘을 가진 백엔드 개발자</span> 장예찬입니다.
 
 <img src="zepeto_profile.png" style="width:200px; border-radius:40px; left:10%; min-width:200px"/>
 
@@ -18,7 +18,8 @@
 
 [![redniche's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechankun&show_icons=true&theme=dark)](https://github.com/yechankun/github-readme-stats)
 
-항상 기존의 `개선에 관심`을 가지고, 일상생활에서 영감을 얻습니다.  
+항상 기존의 `개선에 관심`을 가지고, 일상생활에서 영감을 얻습니다.
+귀찮은 것이 힘들어 업무 자동화와 생활을 위한 토이 프로젝트들로 꾸준히 성장 홨습니다.
 최근에는 코드 컨벤션, 클린 코드 작성, 코드 리팩터링에 대해 매번 고민하고 있습니다.
 
 4차 산업혁명 기술인 **블록체인**, **인공지능** 등 혁신적인 기술에 관심이 많고 배움에 두려움을 가지지 않고 일단 **몰입**해서 해 보는 것이 제 장점이라 생각합니다.  
