@@ -16,7 +16,7 @@
 }
 ```
 
-[![redniche's GitHub stats](https://github-readme-stats.vercel.app/api?username=redniche&show_icons=true&theme=dark)](https://github.com/redniche/github-readme-stats)
+[![redniche's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechankun&show_icons=true&theme=dark)](https://github.com/yechankun/github-readme-stats)
 
 항상 기존의 `개선에 관심`을 가지고, 일상생활에서 영감을 얻습니다.  
 최근에는 코드 컨벤션, 클린 코드 작성, 코드 리팩터링에 대해 매번 고민하고 있습니다.
@@ -28,7 +28,7 @@
 
 [학습공유1](https://user-images.githubusercontent.com/44011226/190913093-45f3ad89-a6a9-49dd-aec4-27b67fb2c6ba.png) [학습공유2](https://user-images.githubusercontent.com/44011226/190913117-a37b0fb8-6b8e-4e33-ad80-4de792329cda.png)
 
-## 🌌 Career
+## 🌌 Careers
 
 <div>
     <table style="display:block;">
@@ -47,7 +47,7 @@
     </table>
 </div>
 
-## 🏆 Award
+## 🏆 Awards
 
 <div>
     <table style="display:block;">
