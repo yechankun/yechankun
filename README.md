@@ -17,7 +17,7 @@
 }
 ```
 
-[![redniche's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechankun&show_icons=true&theme=dark)](https://github.com/yechankun/github-readme-stats)
+![redniche's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechankun&theme=dark&show_icons=true)
 
 항상 기존의 `개선에 관심`을 가지고, 일상생활에서 영감을 얻습니다.  
 귀찮은 것이 힘들어 업무 자동화와 생활을 위한 토이 프로젝트들로 꾸준히 성장 홨습니다.  
