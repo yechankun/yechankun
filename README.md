@@ -1,7 +1,7 @@
 <!-- @format -->
 
 # 👋🏻 안녕하세요!  
-## <span style="background: #a55ef4;">순식간에 성장하는 귀차니즘을 가진 백엔드 개발자</span> 장예찬입니다.
+## <span style="background: #a55ef4;">순식간에 성장하는 백엔드 개발자</span> 장예찬입니다.
 
 <img src="zepeto_profile.png" style="width:200px; border-radius:40px; left:10%; min-width:200px"/>
 
