@@ -1,7 +1,7 @@
 <!-- @format -->
 
 # 👋🏻 안녕하세요!  
-## <span style="background: #a55ef4;">순식간에 성장하는 귀차니즘을 가진 백엔드 개발자</span> yechankun입니다.
+## <span style="background: #a55ef4;">순식간에 성장하는 백엔드 개발자</span> yechankun입니다.
 
 
 
