@@ -527,5 +527,5 @@
 | RUN TIME                     | 교내·외 전공 스터디 동아리 모임      | 2015.03 ~ 2016.06 |
 
 ## 📖 Personal studies
-[챌린저스 알고리즘 도전](https://github.com/challengers-algorithm/algorithm)
-[알고리즘 기록](https://github.com/yechankun/Algorithm)
+[챌린저스 알고리즘 도전](https://github.com/challengers-algorithm/algorithm)  
+[알고리즘 기록](https://github.com/yechankun/Algorithm)  
