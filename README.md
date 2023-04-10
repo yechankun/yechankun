@@ -20,28 +20,10 @@
 
 ## 🌌 Careers
 
-<div>
-    <table style="display:block;">
-        <tr>
-            <td>회사</td>
-            <td>수행업무</td>
-            <td>기간</td>
-            <td>비고</td>
-        </tr>
-        <tr>
-            <td>SSAFY개발운영그룹</td>
-            <td>프로젝트 실습코치, 삼성 청년 SW 아카데미 7기 담당 <br/> 프로젝트 피드백, 코드 리뷰, 팀관리, 질의 응답, 프로젝트 품질 향상</td>
-            <td>22.06.28 ~ 22.11.30</td>
-            <td>프리랜서</td>
-        </tr>
-        <tr>
-            <td>(주)멋쟁이사자처럼</td>
-            <td>멘토, K-digital 멋쟁이사자처럼 백엔드 스쿨 2기 담당 <br/> 프로젝트 피드백, 코드 리뷰, 팀관리, 질의 응답, 개선사항 피드백 </td>
-            <td>23.01.03 ~ 23.02.17</td>
-            <td>프리랜서</td>
-        </tr>
-    </table>
-</div>
+| 회사 | 소속 | 수행업무 | 기간 | 비고 |
+|---------|---------|-----------------------------------------------------------------------|------------------|---------------|
+| (주)멀티캠퍼스 | SSAFY개발운영그룹      | 프로젝트 실습코치, 삼성 청년 SW 아카데미 7기 담당 <br/> 프로젝트 피드백, 코드 리뷰, 팀관리, 질의 응답, 프로젝트 품질 향상    | 22.06.28 ~ 22.11.30 | 프리랜서 |
+| (주)멋쟁이사자처럼  |   보조강사   | 멘토, K-digital 멋쟁이사자처럼 백엔드 스쿨 2기 담당 <br/> 프로젝트 피드백, 코드 리뷰, 팀관리, 질의 응답, 개선사항 피드백    | 23.01.03 ~ 23.02.17 | 프리랜서 |
 
 ## 🏆 Awards
 
@@ -344,6 +326,18 @@
 ## 👦 Sub Project
 
 개발 규모가 크지 않거나 개인 토이 프로젝트입니다.  
+
+### 요약 테이블
+| 프로젝트 이름 | 설명 | 기간 | 주요 기술 및 언어 | 깃허브 링크 및 기타 |
+| --- | --- | --- | --- | --- |
+| TypeChain | 타입스크립트 블록체인 토이 프로젝트 | 2021.02,08,12 | TypeScript | [깃허브 링크](https://github.com/yechankun/TypeChain) |
+| Trade-Research | 기술적 분석 지표, MLP, Prophet을 활용한 투자지표 프로젝트 | 2021.05 ~ 2021.08 | PineScript, Python | [깃허브 링크](https://github.com/Trade-Research/TradingView_Indicators), [깃허브 링크](https://github.com/Trade-Research/TradingView_Neural_Indicator) |
+| 헬스가든 | 교외 국가근로 중 개발한 웹 디자인 | 2020.02 ~ 2020.03 | HTML, JavaScript, CSS | 디자인 이미지, 디자인 이미지2 |
+| 봉고캣 | 방송 아바타용 토이 프로젝트 | 2020.02 ~ 2020.03 | C++, SFML, JsonCpp | 깃허브 링크 |
+| AirSeat | 가상의 항공사 홈페이지 MVC 패턴 구현 | 2019.09 ~ 2019.12 | Django 1.11, Django Template, Oracle 11g XE | [깃허브 링크](https://github.com/yechankun/AirSeat), 최종 보고서 링크 |
+| BrainManager | 기억하고 싶은 키워드를 최적 시간에 복습 알림하는 일종의 리마인더 앱 | 2019.03 ~ 2019.06 | AndroidSDK, SQLite, Firebase | [깃허브 링크](https://github.com/NeoMindStd/BrainManager), [플레이 스토어](https://play.google.com/store/apps/details?id=std.neomind.brainmanager), [깃허브 링크](https://yechankun.github.io/posts/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%95%B1-%EB%B8%8C%EB%9E%98%EC%9D%B8%EB%A7%A4%EB%8B%88%EC%A0%80/) |
+| 핑 모니터링 툴 개발 | 텍스트로 어떤 ip든 핑 테스트를 자동으로 할 수 있는 윈도우폼 앱 | 2018.04 ~ 2018.11 | C#, .Net Framework | [깃허브 링크](https://github.com/yechankun/Ping-Monitoring), [깃허브 링크](https://yechankun.github.io/posts/%ED%95%91-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%ED%88%B4-%EA%B0%9C%EB%B0%9C/), 개인 블로그 링크 |
+| 신경망 숫자 인식기 | 다층퍼셉트론 신경망으로 숫자 인식을 학습하고 시험하는 프로그램 | 2017.12 ~ 2018.02 | C#, .Net Framework | [깃허브 링크](https://github.com/yechankun/NeuralNetwork-NumberRecognition), [개인 블로그 링크](https://yechankun.github.io/posts/%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%88%AB%EC%9E%90-%EC%9D%B8%EC%8B%9D%EA%B8%B0/) |
 
 ### Server
 
