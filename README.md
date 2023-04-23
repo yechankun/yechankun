@@ -54,138 +54,135 @@
 
 ## 🌠 Skill
 
-<div>
-    <table style="display:block;">
-        <tr>
-            <td>수준</td>
-            <td>주니어</td>
-        </tr>
-        </tr>
-        <tr>
-            <td>언어</td>
-            <td>
-            상    = 언어별통합, 프레임워크 제작
+<table>
+    <tr>
+        <td>수준</td>
+        <td>주니어</td>
+    </tr>
+    <tr>
+        <td>언어</td>
+        <td>
+        상    = 언어별통합, 프레임워크 제작
+        <br>
+        중상  = 라이브러리, 솔루션 제작
+        <br>
+        중    =  클린코드 작성
+        <br>
+        중하  = 프로토타입 제작
+        <br>
+        하    =  기초문법 이해
+        <br>
+        <img src="https://img.shields.io/badge/Java-OpenJDK 8, 중-007ACC?style=flat&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-OpenJDK 11, 중-007ACC?style=flat&logo=Java&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Python3-중-007ACC?style=flat&logo=Python&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/JavaScript-중-007ACC?style=flat&logo=JavaScript&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML-중하-007ACC?style=flat&logo=HTML5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-중하-007ACC?style=flat&logo=CSS3&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Solidity-중-007ACC?style=flat&logo=Solidity&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/SQL-MySQL 8.0 중하-007ACC?style=flat&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-Oracle 11g XE 하-007ACC?style=flat&logo=Oracle&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/C-하-007ACC?style=flat&logo=C&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-하-007ACC?style=flat&logo=CPlusPlus&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-하-007ACC?style=flat&logo=CSharp&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-4.x 하-007ACC?style=flat&logo=TypeScript&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <td>백엔드</td>
+        <td>
+            <img src="https://img.shields.io/badge/서버 프레임워크-Spring Boot ^2.5.6-A07ACC?style=flat&logo=Spring Boot&logoColor=white">
+            <img src="https://img.shields.io/badge/서버 프레임워크-Express 1.11-A07ACC?style=flat&logo=Express&logoColor=white">
+            <img src="https://img.shields.io/badge/서버 프레임워크-Spring 5.x-A07ACC?style=flat&logo=Spring&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/빌드 및 관리-Gradle-A07ACC?style=flat&logo=Gradle&logoColor=white">
+            <img src="https://img.shields.io/badge/빌드 및 관리-Maven-A07ACC?style=flat&logo=Apache Maven&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/ORM-JPA-A07ACC?style=flat&logo=Hibernate&logoColor=white">
+            <img src="https://img.shields.io/badge/ORM-Mybatis-A07ACC?style=flat&logo=Mybatis&logoColor=white">
+            <img src="https://img.shields.io/badge/ORM-Mongoose-A07ACC?style=flat&logo=Mongoose&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/DB IDE-MySQL Workbench-A07ACC?style=flat&logo=MySQL&logoColor=white">
+            <img src="https://img.shields.io/badge/DB IDE-Oracle SQL Developer-A07ACC?style=flat&logo=Oracle&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/클라우드-EC2-A07A5C?style=flat&logo=Amazon&logoColor=white">
+            <img src="https://img.shields.io/badge/서버-Ubuntu-A07A5C?style=flat&logo=Ubuntu&logoColor=white">
+            <img src="https://img.shields.io/badge/가상화-Docker-A07A5C?style=flat&logo=Docker&logoColor=white">
+            <img src="https://img.shields.io/badge/API테스트-Postman-A07A5C?style=flat&logo=Postman&logoColor=white">
+        </td>  
+    </tr>
+    <tr>
+        <td>배포</td>
+        <td>
+            <img src="https://img.shields.io/badge/CICD-Jenkins-A07A5C?style=flat&logo=Jenkins&logoColor=white">
+            <img src="https://img.shields.io/badge/CICD-GitHub Action-A07A5C?style=flat&logo=Github&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/Node.js-A07A5C?style=flat&logo=Node.js&logoColor=white">
+            <img src="https://img.shields.io/badge/Tomcat WAS-A07A5C?style=flat&logo=Apache Tomcat&logoColor=white">
+            <img src="https://img.shields.io/badge/Apache-A07A5C?style=flat&logo=Apache&logoColor=white">
+        </td>
+    </tr> 
+    <tr>
+        <td>프론트엔드</td>
+        <td>
+            <img src="https://img.shields.io/badge/SPA프레임워크(라이브러리)-React ^17-A07ACC?style=flat&logo=React&logoColor=white">
+            <img src="https://img.shields.io/badge/웹디자인-BootStrap-A07ACC?style=flat&logo=BootStrap&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/패키지 관리-Yarn-A07ACC?style=flat&logo=Yarn&logoColor=white">
+            <img src="https://img.shields.io/badge/패키지 관리-npm-A07ACC?style=flat&logo=npm&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/프로토타입 설계-Figma-A07ACC?style=flat&logo=Figma&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <td>신 기술</td>
+        <td>
+            <img src="https://img.shields.io/badge/블록체인 프레임워크-Truffle 5.5.6-000000?style=flat&logo=Truffle&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/게임엔진-Unity ^2015-000000?style=flat&logo=Unity&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/IPFS-go/ipfs, ipfs cluster-000000?style=flat&logo=ipfs&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <td>도구</td>
+        <td>
+            <img src="https://img.shields.io/badge/IDE-Visual Studio Code-007A1C?style=flat&logo=Visual Studio Code&logoColor=white">
+            <img src="https://img.shields.io/badge/IDE-IntelliJ IDEA-007A1C?style=flat&logo=IntelliJ IDEA&logoColor=white">
+            <img src="https://img.shields.io/badge/IDE-Eclipse-007A1C?style=flat&logo=Eclipse&logoColor=white">
+            <img src="https://img.shields.io/badge/IDE-Visual Studio 2019-007A1C?style=flat&logo=Visual Studio&logoColor=white">
+            <img src="https://img.shields.io/badge/IDE-PyCharm-007A1C?style=flat&logo=PyCharm&logoColor=white">
+            <img src="https://img.shields.io/badge/Solidity IDE-Remix IDE-007A1C?style=flat&logo=Truffle&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <td>프로젝트 관리</td>
+        <td>
+            <img src="https://img.shields.io/badge/Git-2.x-A07A5C?style=flat&logo=Git&logoColor=white">
+            <img src="https://img.shields.io/badge/프로젝트관리-노션-A07A5C?style=flat&logo=Notion&logoColor=white">
+            <img src="https://img.shields.io/badge/프로젝트관리-Jira-A07A5C?style=flat&logo=Jira&logoColor=white">
             <br/>
-            중상  = 라이브러리, 솔루션 제작
+            <img src="https://img.shields.io/badge/포매터-Prettier-A07A5C?style=flat&logo=Prettier&logoColor=white">
+            <img src="https://img.shields.io/badge/린트-Eslint-A07A5C?style=flat&logo=Eslint&logoColor=white">
+            <img src="https://img.shields.io/badge/정적분석-CheckStyle-A07A5C?style=flat&logo=CheckStyle&logoColor=white">
+            <img src="https://img.shields.io/badge/정적분석-SonarCube-A07A5C?style=flat&logo=SonarQube&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <td>기타</td>
+        <td>
+            <img src="https://img.shields.io/badge/그외-Adobe Photoshop-5575FF?style=flat&logo=Adobe Photoshop&logoColor=white">
+            <img src="https://img.shields.io/badge/그외-Blender-5575FF?style=flat&logo=Blender&logoColor=white">
+            <img src="https://img.shields.io/badge/그외-Microsoft Excel-5575FF?style=flat&logo=Microsoft Excel&logoColor=white">
             <br/>
-            중    =  클린코드 작성
-            <br/>
-            중하  = 프로토타입 제작
-            <br/>
-            하    =  기초문법 이해
-            <br/>
-            <img src="https://img.shields.io/badge/Java-OpenJDK 8, 중-007ACC?style=flat&logo=Java&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Java-OpenJDK 11, 중-007ACC?style=flat&logo=Java&logoColor=white"/>
-            <br/>
-            <img src="https://img.shields.io/badge/Python3-중-007ACC?style=flat&logo=Python&logoColor=white"/>
-            <br/>
-            <img src="https://img.shields.io/badge/JavaScript-중-007ACC?style=flat&logo=JavaScript&logoColor=white">
-            <img src="https://img.shields.io/badge/HTML-중하-007ACC?style=flat&logo=HTML5&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CSS-중하-007ACC?style=flat&logo=CSS3&logoColor=white"/>
-            <br/>
-            <img src="https://img.shields.io/badge/Solidity-중-007ACC?style=flat&logo=Solidity&logoColor=white"/>
-            <br/>
-            <img src="https://img.shields.io/badge/SQL-MySQL 8.0 중하-007ACC?style=flat&logo=MySQL&logoColor=white"/>
-            <img src="https://img.shields.io/badge/SQL-Oracle 11g XE 하-007ACC?style=flat&logo=Oracle&logoColor=white"/>
-            <br/>
-            <img src="https://img.shields.io/badge/C-하-007ACC?style=flat&logo=C&logoColor=white"/>
-            <img src="https://img.shields.io/badge/C++-하-007ACC?style=flat&logo=CPlusPlus&logoColor=white"/>
-            <img src="https://img.shields.io/badge/C%23-하-007ACC?style=flat&logo=CSharp&logoColor=white"/>
-            <img src="https://img.shields.io/badge/TypeScript-4.x 하-007ACC?style=flat&logo=TypeScript&logoColor=white"/>
-            </td>
-        </tr>
-        <tr>
-            <td>백엔드</td>
-            <td>
-              <img src="https://img.shields.io/badge/서버 프레임워크-Spring Boot ^2.5.6-A07ACC?style=flat&logo=Spring Boot&logoColor=white"/>
-              <img src="https://img.shields.io/badge/서버 프레임워크-Express 1.11-A07ACC?style=flat&logo=Express&logoColor=white"/>
-              <img src="https://img.shields.io/badge/서버 프레임워크-Spring 5.x-A07ACC?style=flat&logo=Spring&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/빌드 및 관리-Gradle-A07ACC?style=flat&logo=Gradle&logoColor=white"/>
-              <img src="https://img.shields.io/badge/빌드 및 관리-Maven-A07ACC?style=flat&logo=Apache Maven&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/ORM-JPA-A07ACC?style=flat&logo=Hibernate&logoColor=white"/>
-              <img src="https://img.shields.io/badge/ORM-Mybatis-A07ACC?style=flat&logo=Mybatis&logoColor=white"/>
-              <img src="https://img.shields.io/badge/ORM-Mongoose-A07ACC?style=flat&logo=Mongoose&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/DB IDE-MySQL Workbench-A07ACC?style=flat&logo=MySQL&logoColor=white"/>
-              <img src="https://img.shields.io/badge/DB IDE-Oracle SQL Developer-A07ACC?style=flat&logo=Oracle&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/클라우드-EC2-A07A5C?style=flat&logo=Amazon&logoColor=white"/>
-              <img src="https://img.shields.io/badge/서버-Ubuntu-A07A5C?style=flat&logo=Ubuntu&logoColor=white"/>
-              <img src="https://img.shields.io/badge/가상화-Docker-A07A5C?style=flat&logo=Docker&logoColor=white"/>
-              <img src="https://img.shields.io/badge/API테스트-Postman-A07A5C?style=flat&logo=Postman&logoColor=white"/>
-            <br/>
-        </tr>
-        <tr>
-            <td>배포</td>
-            <td>
-              <img src="https://img.shields.io/badge/CICD-Jenkins-A07A5C?style=flat&logo=Jenkins&logoColor=white"/>
-              <img src="https://img.shields.io/badge/CICD-GitHub Action-A07A5C?style=flat&logo=Github&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/Node.js-A07A5C?style=flat&logo=Node.js&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Tomcat WAS-A07A5C?style=flat&logo=Apache Tomcat&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Apache-A07A5C?style=flat&logo=Apache&logoColor=white"/>
-            <td>
-        </tr> 
-        <tr>
-            <td>프론트엔드</td>
-            <td>
-              <img src="https://img.shields.io/badge/SPA프레임워크(라이브러리)-React ^17-A07ACC?style=flat&logo=React&logoColor=white">
-              <img src="https://img.shields.io/badge/웹디자인-BootStrap-A07ACC?style=flat&logo=BootStrap&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/패키지 관리-Yarn-A07ACC?style=flat&logo=Yarn&logoColor=white"/>
-              <img src="https://img.shields.io/badge/패키지 관리-npm-A07ACC?style=flat&logo=npm&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/프로토타입 설계-Figma-A07ACC?style=flat&logo=Figma&logoColor=white"/>
-            </td>
-        </tr>
-        <tr>
-            <td>신 기술</td>
-            <td>
-              <img src="https://img.shields.io/badge/블록체인 프레임워크-Truffle 5.5.6-000000?style=flat&logo=Truffle&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/게임엔진-Unity ^2015-000000?style=flat&logo=Unity&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/IPFS-go/ipfs, ipfs cluster-000000?style=flat&logo=ipfs&logoColor=white"/>
-            </td>
-        </tr>
-        <tr>
-            <td>도구</td>
-            <td>
-              <img src="https://img.shields.io/badge/IDE-Visual Studio Code-007A1C?style=flat&logo=Visual Studio Code&logoColor=white"/>
-              <img src="https://img.shields.io/badge/IDE-IntelliJ IDEA-007A1C?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-              <img src="https://img.shields.io/badge/IDE-Eclipse-007A1C?style=flat&logo=Eclipse&logoColor=white"/>
-              <img src="https://img.shields.io/badge/IDE-Visual Studio 2019-007A1C?style=flat&logo=Visual Studio&logoColor=white"/>
-              <img src="https://img.shields.io/badge/IDE-PyCharm-007A1C?style=flat&logo=PyCharm&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Solidity IDE-Remix IDE-007A1C?style=flat&logo=Truffle&logoColor=white"/>
-            </td>
-        </tr>
-        <tr>
-            <td>프로젝트 관리</td>
-            <td>
-              <img src="https://img.shields.io/badge/Git-2.x-A07A5C?style=flat&logo=Git&logoColor=white"/>
-              <img src="https://img.shields.io/badge/프로젝트관리-노션-A07A5C?style=flat&logo=Notion&logoColor=white"/>
-              <img src="https://img.shields.io/badge/프로젝트관리-Jira-A07A5C?style=flat&logo=Jira&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/포매터-Prettier-A07A5C?style=flat&logo=Prettier&logoColor=white"/>
-              <img src="https://img.shields.io/badge/린트-Eslint-A07A5C?style=flat&logo=Eslint&logoColor=white"/>
-              <img src="https://img.shields.io/badge/정적분석-CheckStyle-A07A5C?style=flat&logo=CheckStyle&logoColor=white"/>
-              <img src="https://img.shields.io/badge/정적분석-SonarCube-A07A5C?style=flat&logo=SonarQube&logoColor=white"/>
-            </td>
-        </tr>
-        <tr>
-            <td>기타</td>
-            <td>
-              <img src="https://img.shields.io/badge/그외-Adobe Photoshop-5575FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
-              <img src="https://img.shields.io/badge/그외-Blender-5575FF?style=flat&logo=Blender&logoColor=white"/>
-              <img src="https://img.shields.io/badge/그외-Microsoft Excel-5575FF?style=flat&logo=Microsoft Excel&logoColor=white"/>
-              <br/>
-              <img src="https://img.shields.io/badge/SSR-Spring thymeleaf-5575FF?style=flat&logo=thymeleaf&logoColor=white"/>
-            </td>
-        </tr>
-    </table>
-</div>
+            <img src="https://img.shields.io/badge/SSR-Spring thymeleaf-5575FF?style=flat&logo=thymeleaf&logoColor=white">
+        </td>
+    </tr>
+</table>
 
 ## 👨‍👧‍👦 Main Project
 
