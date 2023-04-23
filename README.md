@@ -196,7 +196,7 @@
         글로벌 인터넷 방송 서드파티 후원 플랫폼
         <br>
         전세계 어느 스트리머에게나 0$대 수수료로 후원해서 소통하고 NFT를 뽑아 덕질할 수 있는 플랫폼</div>
-        <div class="link"><a href="https://github.com/Solniverse/Solniverse/tree/master/exec">깃허브 링크</a></div>
+        <div class="link"><a href="https://github.com/Solniverse/Solniverse">깃허브 링크</a></div>
         <div class="link"><a href="https://huisso.notion.site/SOLNIVERSE-e1441567e728438584cf3a88e396ea2b">노션 링크</a></div>
         <div class="date">2022.04 ~ 2022.05</div>
         <ul class="list">
