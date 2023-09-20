@@ -51,7 +51,7 @@
 [삼성 청년 SW 아카데미 상장](https://user-images.githubusercontent.com/44011226/190911496-b7929db0-b3c5-4b1b-8c95-1fac01bf7d6c.jpg)  
 [육군혁신 아이디어 콘테스트 아이디어 콘테스트 상장](https://github.com/yechankun/yechankun.github.io/raw/redniche_blog_5.1/assets/img/portfolio/outdoor/awards/3.png)
 
-## 🌠 Skill
+## 📃 Certificate 
 
 - OPIC
   - 등급: IM2
@@ -61,6 +61,9 @@
   - 등급: 산업기사
   - 자격번호: 18631006048E
   - 취득일: 2018.06.01
+
+
+## 🌠 Skill
 
 <table class="custom">
     <tr>
