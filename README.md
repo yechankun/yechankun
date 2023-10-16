@@ -206,7 +206,7 @@
     전세계 어느 개인 방송인에게나 최저 수수료 후원, 실시간 후원 알림, 후원해서 얻은 보너스 포인트로 NFT 뽑기 기능 제공</div>
     <div class="link"><a href="https://github.com/Solniverse/Solniverse/tree/master/exec">깃허브 링크</a></div>
     <div class="link"><a href="https://huisso.notion.site/SOLNIVERSE-e1441567e728438584cf3a88e396ea2b">노션 링크</a></div>
-    <div class="date">2022.04 ~ 2022.05</div>
+    <div class="date">2022.04.11 ~ 2022.05.31</div>
     <ul class="list">
         <li class="item">팀원 6명 중 팀원</li>
         <li class="item">백엔드</li>
@@ -237,7 +237,7 @@
     <div class="link"><a href="https://redniche.notion.site/c362c3526e8f49d48b56594234573882">노션 링크</a></div>
     <div class="link"><a href="https://user-images.githubusercontent.com/44011226/190913148-b536f1b0-bc54-4b07-acd4-99090d684167.png
 ">지라 이미지 링크</a></div>
-    <div class="date">2022.03 ~ 2022.04</div>
+    <div class="date">2022.03.02 ~ 2022.04.08</div>
     <ul class="list">
         <li class="item">팀원 5명 중 팀장, 풀스택</li>
         <ul class="list">
