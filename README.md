@@ -4,8 +4,6 @@
 
 ## <span style="background: #a55ef4;">순식간에 성장하는 개발자</span> 장예찬입니다.
 
-<img src="zepeto_profile.png" style="width:200px; border-radius:40px; left:10%; min-width:200px"/>
-
 ```json
 {
   "yechankun": {
