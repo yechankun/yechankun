@@ -8,7 +8,7 @@
 {
   "yechankun": {
     "realname": "장예찬",
-    "nickname": ["니체", "예찬군"],
+    "nickname": "예찬군",
     "phone_number": "010-6532-8972",
     "email_address": ["redniche@naver.com", "fakerniche@gmail.com"],
     "birth_date": "1996-10-05"
