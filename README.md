@@ -4,8 +4,6 @@
 
 ## <span style="background: #a55ef4;">yechankun입니다.</span>
 
-![yechankun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechankun&theme=dark&show_icons=true&disable_animations=true)
-
 항상 기존의 `개선에 관심`을 가지고, 일상생활에서 영감을 얻습니다.  
 기본기에 충실한 개발자가 되고자 합니다.  
 최근에는 코드 컨벤션, 클린 코드, 함수형 프로그래밍에 대해 매번 고민하고 있습니다.
