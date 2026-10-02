@@ -2,9 +2,7 @@
 
 # 👋🏻 안녕하세요!
 
-## <span style="background: #a55ef4;">순식간에 성장하는 개발자</span> yechankun입니다.
-
-
+## <span style="background: #a55ef4;">yechankun입니다.</span>
 
 ![yechankun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechankun&theme=dark&show_icons=true&disable_animations=true)
 
